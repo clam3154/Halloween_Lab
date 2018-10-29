@@ -9,6 +9,10 @@ public class JackOLantern {
     {
 
     }
+    public fill(String row)
+    {
+
+    }
 
     public String toString()
     {
@@ -20,7 +24,7 @@ public class JackOLantern {
             {
                 row += faceFeatures[i][j];
             }
-            row = "";
+            row += "\n";
         }
         return row;
     }
