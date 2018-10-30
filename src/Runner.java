@@ -9,6 +9,7 @@ public class Runner {
                 {"X","X","X","X","X","X","X","X"},
                 {" ","X","X","X","X","X","X"," "}
         };
+
         System.out.println(toString());
     }
 }
